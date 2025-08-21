@@ -1,0 +1,10 @@
+import javax.swing.*;
+
+
+
+public static void main(String args[]) {
+
+String mark ="Testing as mark";
+
+
+} 
